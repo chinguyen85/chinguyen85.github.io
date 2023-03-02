@@ -3,4 +3,4 @@
 source "https://rubygems.org"
 
 gemspec
-gem "github-pages", group: :jeky  ## to view site on computer
+gem "github-pages", group: :jekyll_plugins  ## to view site on computer
